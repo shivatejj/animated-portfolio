@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <style>
+      .code-text { 
+        font-family: 'Courier New', monospace; 
+        font-size: 16px; 
+        fill: white;
+        font-weight: bold;
+      }
+    </style>
+  </defs>
+  <text class="code-text" x="5" y="20">&lt;/&gt;</text>
+  <text class="code-text" x="55" y="20">&lt;/&gt;</text>
+  <text class="code-text" x="30" y="45">&lt;/&gt;</text>
+  <text class="code-text" x="80" y="45">&lt;/&gt;</text>
+  <text class="code-text" x="5" y="70">&lt;/&gt;</text>
+  <text class="code-text" x="55" y="70">&lt;/&gt;</text>
+  <text class="code-text" x="30" y="95">&lt;/&gt;</text>
+  <text class="code-text" x="80" y="95">&lt;/&gt;</text>
+  <text class="code-text" x="5" y="115">&lt;/&gt;</text>
+  <text class="code-text" x="55" y="115">&lt;/&gt;</text>
+</svg>
